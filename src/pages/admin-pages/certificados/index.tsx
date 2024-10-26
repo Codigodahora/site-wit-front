@@ -6,15 +6,15 @@ import Filter from "../../../components/admin-components/search-bar";
 import Table from "../../../components/admin-components/table";
 import GlobalStyles from "../../../styles/GlobalStyles";
 
-import iconDelete from "../../../assets/img/btn-delete.png";
-import iconAdd from "../../../assets/img/icon-add.png";
-import iconEdit from "../../../assets/img/icon-edit.png";
-import iconIssue from "../../../assets/img/icon-issue.png";
+import iconDelete from "../../../assets/img/icons/btn-delete.png";
+import iconAdd from "../../../assets/img/icons/icon-add.png";
+import iconEdit from "../../../assets/img/icons/icon-edit.png";
+import iconIssue from "../../../assets/img/icons/icon-issue.png";
 
 import DynamicButton from "../../../components/admin-components/btn";
 import { Container } from "./style";
 
-import people from "../../../data/fakepeople.json";
+// import people from "../../../data/fakepeople.json";
 
 const CertificadosAdmin: React.FC = () => {
   const [showModal, setShowModal] = useState(false);
@@ -64,7 +64,7 @@ const CertificadosAdmin: React.FC = () => {
                 X
               </button>
             </div>
-            <Table data={people} />
+            {/* <Table data={} /> */}
             <div className="btn-issue">
               <DynamicButton text="Emitir" img_path={iconIssue} />
             </div>

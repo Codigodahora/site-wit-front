@@ -2,9 +2,9 @@ import Header from "../../../components/admin-components/header";
 import Filter from "../../../components/admin-components/search-bar";
 import GlobalStyles from "../../../styles/GlobalStyles";
 
-import iconDelete from "../../../assets/img/btn-delete.png";
-import iconAdd from "../../../assets/img/icon-add.png";
-import iconEdit from "../../../assets/img/icon-edit.png";
+import iconDelete from "../../../assets/img/icons/btn-delete.png";
+import iconAdd from "../../../assets/img/icons/icon-add.png";
+import iconEdit from "../../../assets/img/icons/icon-edit.png";
 
 import { getAdminActivities } from "api/admin/activities/get";
 import { deleteAdminActivityById } from "api/admin/activities/{acitvityId}/delete";

@@ -4,7 +4,7 @@ import { Container } from "./style";
 
 import CardProps from "../../props/props-card";
 
-import cardImage from "../../../../assets/img/banner-card.png";
+import cardImage from "../../../../assets/img/general_imgs/banner-card.png";
 
 const Card: React.FC<
   CardProps & { isSelected: boolean; onClick: () => void }

@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import ButtonProps from 'components/user-components/props/button-props';
 import {Container} from "./style"
-import setaIcon from "../../../assets/img/seta.png";
+import setaIcon from "../../../assets/img/icons/seta.png";
 
 const ToggleButton: React.FC<ButtonProps> = ({ question, answer }) => {
   const [isAnswerVisible, setIsAnswerVisible] = useState(false);

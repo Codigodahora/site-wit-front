@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 import Table from "../../../components/admin-components/table";
 import MyButton from "../../../components/admin-components/btn";
 
-import iconIssue from "../../../assets/img/icon-issue.png";
+import iconIssue from "../../../assets/img/icons/icon-issue.png";
 
 import { Container } from "./style";
 

@@ -7,7 +7,7 @@ import Footer from "../../../components/user-components/computer-window/footer";
 import Header from "../../../components/user-components/computer-window/header";
 import GlobalStyles from "../../../styles/GlobalStyles";
 
-import ImageAbout from "../../../assets/img/about_photo.png";
+import ImageAbout from "../../../assets/img/general_imgs/about_photo.png";
 
 import { Custom, HeaderContainer } from "./style";
 

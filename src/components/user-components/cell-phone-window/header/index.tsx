@@ -3,7 +3,7 @@ import { useNavigate } from "react-router-dom";
 
 import { Container } from "./style";
 
-import MenuImage from "../../../../assets/img/menu.png";
+import MenuImage from "../../../../assets/img/icons/menu.png";
 
 const HamburgerMenu: React.FC = () => {
   const [isOpen, setIsOpen] = useState(false);

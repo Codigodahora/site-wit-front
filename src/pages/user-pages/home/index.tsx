@@ -4,7 +4,7 @@ import Header from "../../../components/user-components/computer-window/header";
 import HeaderCellPhone from "../../../components/user-components/cell-phone-window/header";
 import Footer from "../../../components/user-components/computer-window/footer";
 
-import BannerImage from "../../../assets/img/banner-home.png";
+import BannerImage from "../../../assets/img/general_imgs/banner-home.png";
 
 import {Container, HeaderContainer, FooterContainer} from "./style"
 

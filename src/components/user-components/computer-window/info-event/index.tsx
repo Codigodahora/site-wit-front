@@ -4,8 +4,6 @@ import { Container } from "./style";
 
 import InfoProps from "../../props/props-info-event";
 
-import bannerInfo from "../../../../assets/img/banner-info.png";
-
 const InfoEvent: React.FC<{ infos: InfoProps[] }> = ({ infos }) => {
   const formatDate = (date: Date): string => {
     return `${date.getDate()}/${date.getMonth() + 1}/${date.getFullYear()}`;

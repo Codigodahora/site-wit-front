@@ -4,8 +4,8 @@ import GlobalStyles from "../../../styles/GlobalStyles";
   import MyButton from "../../../components/admin-components/btn";
 import Dropdown from "../../../components/admin-components/dropdown";
 
-  import iconFinish from "../../../assets/img/icon-finish.png";
-import iconReturn from "../../../assets/img/icon-return.png";
+  import iconFinish from "../../../assets/img/icons/icon-finish.png";
+import iconReturn from "../../../assets/img/icons/icon-return.png";
 
   import { getAdminActivitiesDropdown } from "api/admin/activities/dropdown-events/get";
 import { getAdminActivityById } from "api/admin/activities/{acitvityId}/get";
