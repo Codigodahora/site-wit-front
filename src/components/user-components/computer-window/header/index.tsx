@@ -22,10 +22,6 @@ export default function Header() {
                 <li><a href="/about">SOBRE</a></li>
                 <li>|</li>
                 <li><a href="/events">EVENTOS</a></li>
-                <li>|</li>
-                <li><a href="/hackathon">HACKATHON</a></li>
-                <li>|</li>
-                <li><button id='selective-header-btn' onClick={handleScroll}>PROCESSO SELETIVO</button></li>
             </div>
         </Container>
     );

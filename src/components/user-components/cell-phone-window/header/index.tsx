@@ -41,12 +41,6 @@ const HamburgerMenu: React.FC = () => {
                     <a href="/events">
                         <li>Eventos</li>
                     </a>
-                    <a href="/hackathon">
-                        <li>Hackathon</li>
-                    </a>
-                    <button id="selective-header-btn" onClick={handleScroll}>
-                        <li>Processo Seletivo</li>
-                    </button>
                 </ul>
             )}
         </div>
