@@ -49,7 +49,7 @@ const AltInfoEvent: React.FC<{ infos: InfoProps[] }> = ({ infos }) => {
               </p>
             )}
             <div className="class-btn">
-              <a href="https://wit.icmc.usp.br/events" className="modal-btn">
+              <a href="https://forms.gle/wEFNN43v8PtKanFf7" className="modal-btn">
                 INSCREVA-SE
               </a>
             </div>

@@ -7,9 +7,9 @@ import ToggleButton from 'components/thematic-components/quest&answer';
 import ButtonProps from 'components/user-components/props/button-props';
 import VideoEntrevista from 'components/thematic-components/video';
 
-import BannerImage from "../../../assets/img/hackathon/background-hackathon.png";
-import MapImage from "../../../assets/img/hackathon/mapa.png";
-import lineTimeImage from "../../../assets/img/hackathon/linha_tempo.png"
+import BannerImage from "../../../assets/img/hackathon2024/background-hackathon.png";
+import MapImage from "../../../assets/img/hackathon2024/mapa.png";
+import lineTimeImage from "../../../assets/img/hackathon2024/linha_tempo.png"
 import Google from "../../../assets/img/patrocinadores/Google.png";
 import Amdocs from "../../../assets/img/patrocinadores/amdocs.png";
 import Arquivei from "../../../assets/img/patrocinadores/arquivei.png";
@@ -20,12 +20,12 @@ import Venturus from "../../../assets/img/patrocinadores/venturus.png";
 import Yampi from "../../../assets/img/patrocinadores/yampi.png";
 import Voitto from "../../../assets/img/patrocinadores/voitto.png";
 
-import Hackathon1 from "../../../assets/img/hackathon/hackathon1.png"
-import Hackathon2 from "../../../assets/img/hackathon/hackathon2.png"
-import Hackathon3 from "../../../assets/img/hackathon/hackthon3.png"
-import Hackathon4 from "../../../assets/img/hackathon/hackathon4.png"
-import Hackathon5 from "../../../assets/img/hackathon/hackathon5.png"
-import Hackathon6 from "../../../assets/img/hackathon/hackathon6.png"
+import Hackathon1 from "../../../assets/img/hackathon2024/hackathon1.png"
+import Hackathon2 from "../../../assets/img/hackathon2024/hackathon2.png"
+import Hackathon3 from "../../../assets/img/hackathon2024/hackthon3.png"
+import Hackathon4 from "../../../assets/img/hackathon2024/hackathon4.png"
+import Hackathon5 from "../../../assets/img/hackathon2024/hackathon5.png"
+import Hackathon6 from "../../../assets/img/hackathon2024/hackathon6.png"
 
 import {Container, HeaderContainer} from "./style"
 
