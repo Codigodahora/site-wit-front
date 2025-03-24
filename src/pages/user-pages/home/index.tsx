@@ -35,7 +35,7 @@ const Home: React.FC = () => {
                   <HeaderCellPhone/>
               </HeaderContainer>
           )}
-          <img className='banner-home' src={BannerImage} alt="Banner do Women in Tech"/>
+          <img className='banner-home' src={BannerImage} alt="Banner do Woman in Tech"/>
           <h1 className='selective-title'>Fiquem de olho nas nossas redes sociais e na seção de eventos para saber mais! 💜</h1>
           <FooterContainer>
               <Footer/>

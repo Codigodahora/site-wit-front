@@ -45,9 +45,22 @@ const About: React.FC = () => {
               <div className="about-text">
                 <h1>Sobre</h1>
                 <p>
-                  O Women in Tech tem como objetivo realizar eventos,
-                  integração, reuniões e debates com a finalidade de discutir a
-                  falta de representatividade feminina nas áreas de ciência e
+                  O Woman in Tech é um grupo de extensão do {" "} 
+                  <a 
+                    href="https://www.icmc.usp.br/" 
+                    target="_blank" 
+                    style={{
+                      display: 'inline', 
+                      textDecoration: 'underline', 
+                      color: '#1a0dab', 
+                      whiteSpace: 'nowrap'
+                    }}
+                    className="hiperlink-a"
+                  >
+                     ICMC
+                  </a> 
+                  {" "} que tem como objetivo realizar eventos, integração, reuniões e debates com a finalidade de 
+                  discutir a falta de representatividade feminina nas áreas de ciência e
                   tecnologia, de forma empoderada e nos conectando com outras
                   mulheres, assim incentivamos mais mulheres a ingressarem e
                   permanecerem na área.
@@ -57,7 +70,7 @@ const About: React.FC = () => {
                 <img
                   width="700rem"
                   src={ImageAbout}
-                  alt="Banner do Women in Tech"
+                  alt="Banner do Woman in Tech"
                 />
               </div>
             </Col>
