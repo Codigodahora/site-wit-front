@@ -36,7 +36,11 @@ const Home: React.FC = () => {
               </HeaderContainer>
           )}
           <img className='banner-home' src={BannerImage} alt="Banner do Woman in Tech"/>
-          <h1 className='selective-title'>Fiquem de olho nas nossas redes sociais e na seção de eventos para saber mais! 💜</h1>
+          <h1 className='selective-title'>Ficou interessada?</h1>
+          <p className='selective-text'>Então, não perca a chance de se inscrever no nosso processo seletivo! 
+            É fácil, basta clicar em "PROCESSO SELETIVO" no topo da página e você será direcionado para nosso 
+            formulário de inscrição. 💜
+            </p>
           <FooterContainer>
               <Footer/>
           </FooterContainer>

@@ -41,6 +41,9 @@ const HamburgerMenu: React.FC = () => {
                     <a href="/events">
                         <li>Eventos</li>
                     </a>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLScFG2eJNnNmaBTBIw7bVEzZWeGpx1c4FWGLbhsWNlHYkWNcWw/viewform">
+                        <li>Processo Seletivo</li>
+                    </a>
                 </ul>
             )}
         </div>
